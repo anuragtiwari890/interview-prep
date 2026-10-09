@@ -1,7 +1,3 @@
-<p>
-  <a href="https://blog.bytebytego.com/?utm_source=site"><img src=".github/banner.jpg" /> </a>
-</p>
-
 <p align="center">
   【
   <a href="https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw">
